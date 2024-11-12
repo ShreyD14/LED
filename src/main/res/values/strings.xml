@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LED</string>
+    <string name="background_image_desc">Background Image\n</string>
+    <string name="connect_bluetooth">bluetooth\n</string>
+</resources>
